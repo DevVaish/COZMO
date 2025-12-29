@@ -9,7 +9,8 @@ interface ShopPageProps {
 
 const categories = [
   { id: "all", name: "All Products" },
-  
+  { id: "women", name: "Women" },
+  { id: "men", name: "Men" },
   { id: "accessories", name: "Accessories" },
   { id: "shoes", name: "Shoes" },
   { id: "jewelry", name: "Jewelry" },
